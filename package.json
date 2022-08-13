@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.7.0"
+  },
+  "dependencies": {
+    "simplex-noise": "^4.0.0",
+    "three": "^0.143.0"
+  }
+}
