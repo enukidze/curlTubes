@@ -225,7 +225,7 @@ export default class Sketch {
 
 
     for (let i = 0; i < 200; i++) {
-
+      
       let path = new THREE.CatmullRomCurve3(this.getCurve(
         new THREE.Vector3(
           Math.random() - 0.4,

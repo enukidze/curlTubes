@@ -7,6 +7,7 @@
     "push-dir": "^0.4.1",
     "shx": "^0.3.2",
     "simplex": "^0.2.0",
+    "simplex-noise": "^4.0.0",
     "three": "^0.143.0"
   },
   "scripts": {
