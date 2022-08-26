@@ -1,9 +1,10 @@
 import * as THREE from "three";
+
 import fragment from "./shader/fragment.glsl";
 import vertex from "./shader/vertex.glsl";
 
-import fragment1 from "./shaderTubes/fragment.glsl";
-import vertex1 from "./shaderTubes/vertex.glsl";
+import fragment1 from "./shadertubes/fragment.glsl";
+import vertex1 from "./shadertubes/vertex.glsl";
 
 import {
   OrbitControls
